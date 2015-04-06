@@ -1,6 +1,7 @@
 ---
 galaxy_info:
   author: webbylab
+  description: sources
   company: WebbyLab
   license: MIT
   min_ansible_version: 1.5
